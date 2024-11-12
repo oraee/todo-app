@@ -19,8 +19,3 @@ This is a simple React-based Todo application built with [Vite](https://vitejs.d
 Start the development server:
    ```bash
    npm run dev
-
-
-
-
-
